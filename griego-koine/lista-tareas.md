@@ -37,3 +37,7 @@ Falta la tarea de 4 paginas
 ## Tarea 4
 
 Se olvidó de dejar tarea :3
+
+## Tarea 5
+
+- [ ] Mencione 30 palabras que lleven el acento (agudo, grave, y circunflejo) asi como el espiritu (suave y áspero o fuerte)
