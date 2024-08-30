@@ -30,25 +30,29 @@
  {\par\noindent\textbf{\abstractname}\ \ignorespaces \\}
  {\par\noindent\medskip}
 
+% Paquete para soporte de idiomas
+\usepackage[spanish]{babel}
 
+% Paquete para codificación de caracteres
+\usepackage[utf8]{inputenc}
 
  
 \begin{document}
 % Makes header
 \pagestyle{fancy}
 \thispagestyle{empty}
-\fancyhead[R]{\textit{Baltic Security Foundation}}
+\fancyhead[R]{\textit{Discipulado - módulo 1}}
 \fancyhead[L]{}
 % Makes footnotes with an asterisk
 \renewcommand*{\thefootnote}{\fnsymbol{footnote}}
 \begin{center}
-\Large{\textbf{Paper Title}}
+\Large{\textbf{Complicaciones de la hermeneutica en la historia de la iglesia cristiana}}
 \vspace{0.4cm}
 \normalsize
-\\ Author Name, Author Name \\
+\\ Arias Quispe, Jhonatan David \\
 \vspace{0.1cm}
-\textit{Organization}
-\small{Other Location}
+\textit{Iglesia Evangélica Luterana - Perú}
+\small{Solo por fe}
 \medskip
 \normalsize
 \end{center}
@@ -63,7 +67,9 @@
 \input{./sections/2_section.tex}
 \input{./sections/3_section.tex}
 \input{./sections/4_section.tex}
-\input{./sections/5_conclusion.tex}
+\input{./sections/5_section.tex}
+\input{./sections/6_section.tex}
+% \input{./sections/5_conclusion.tex}
 \bibliographystyle{plain}
 \bibliography{references}
 \end{document}
