@@ -6,7 +6,7 @@ No hubieron tareas para esta sesión
 
 ## Tarea 2
 
-- [ ] Mencione cuales fueron las complicaciones que tuvo la hermenéutica desde el periodo pre cristiano, hasta el periodo contempotáneo.
+- [x] Mencione cuales fueron las complicaciones que tuvo la hermenéutica desde el periodo pre cristiano, hasta el periodo contempotáneo.
 - [ ] Interprete hermenéuticamente el siguiente texto: `Num 15:37-41`
 
 ## Tarea 3

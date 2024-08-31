@@ -2,11 +2,11 @@
 \contentsline {section}{\numberline {1}Introducción}{1}{section.1}%
 \contentsline {section}{\numberline {2}Periodo pre-cristiano}{1}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Inicios de la hermenéutica}{1}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Problemas de la hermenéutica}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.2}Problemas de la hermenéutica}{1}{subsection.2.2}%
 \contentsline {section}{\numberline {3}Período Cristiano Primitivo}{2}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Corriente Alegórica}{2}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Corriente Literal}{2}{subsection.3.2}%
 \contentsline {section}{\numberline {4}Período Medieval}{2}{section.4}%
-\contentsline {subsection}{\numberline {4.1}La Etapa Oscura}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.1}La Etapa Oscura}{2}{subsection.4.1}%
 \contentsline {section}{\numberline {5}Período de la Reforma}{3}{section.5}%
 \contentsline {section}{\numberline {6}Período Histórico-Crítico y Contemporáneo}{3}{section.6}%
