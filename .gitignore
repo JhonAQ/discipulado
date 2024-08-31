@@ -1,0 +1,6 @@
+*.log
+*.blg
+*.aux
+*.toc
+*.out
+*.luabridge.lua
