@@ -1,4 +1,5 @@
 \documentclass[a4paper,11pt]{article}
+\include{./metadata.tex}
 % Package to make citations superscrit with brackets
 \usepackage[super,square]{natbib}
 % Package to change margin size
@@ -36,24 +37,23 @@
 % Paquete para codificación de caracteres
 \usepackage[utf8]{inputenc}
 
- 
 \begin{document}
 % Makes header
 \pagestyle{fancy}
 \thispagestyle{empty}
-\fancyhead[R]{\textit{Discipulado - módulo 1}}
+\fancyhead[R]{\textit{\encabezado}}
 \fancyhead[L]{}
 % Makes footnotes with an asterisk
 \renewcommand*{\thefootnote}{\fnsymbol{footnote}}
 \begin{center}
-\Large{\textbf{Complicaciones de la hermeneutica en la historia de la iglesia cristiana}}
+\Large{\textbf{\titulo}}
 \vspace{0.4cm}
 \normalsize
 \\ Arias Quispe, Jhonatan David \\
 \vspace{0.1cm}
-\textit{Iglesia Evangélica Luterana - Perú}\\
-\small{Juliaca, Perú} \\
-\href{mailto:dev.dczel@gmail.com}{dev.dczel@gmail.com}
+\textit{\institucion}\\
+\small{\locacion} \\
+\href{mailto:\correo}{\correo}
 \medskip
 \normalsize
 \end{center}
@@ -68,8 +68,6 @@
 \input{./sections/2_section.tex}
 \input{./sections/3_section.tex}
 \input{./sections/4_section.tex}
-\input{./sections/5_section.tex}
-\input{./sections/6_section.tex}
 % \input{./sections/5_conclusion.tex}
 \bibliographystyle{plain}
 \bibliography{references}
