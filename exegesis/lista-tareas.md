@@ -12,8 +12,8 @@ No hubieron tareas para esta sesión
 
 ## Tarea 3
 
-- [ ] ¿Fué Juan el bautista el Elías por venir? `Ml 4:4-5`
-- [ ] Mencione 30 citas del `Antiguo Testamento` usadas en el `Nuevo Testamento`
+- [x] ¿Fué Juan el bautista el Elías por venir? `Ml 4:4-5`
+- [x] Mencione 30 citas del `Antiguo Testamento` usadas en el `Nuevo Testamento`
 
 ## Tarea 4
 
