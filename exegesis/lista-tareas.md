@@ -7,12 +7,11 @@ No hubieron tareas para esta sesión
 ## Tarea 2
 
 - [x] Mencione cuales fueron las complicaciones que tuvo la hermenéutica desde el periodo pre cristiano, hasta el periodo contempotáneo.
-- [ ] Interprete hermenéuticamente el siguiente texto: `Num 15:37-41`
+- [x] Interprete hermenéuticamente el siguiente texto: `Num 15:37-41`
 
 ## Tarea 3
 
-- [ ] ¿Fué Juan el bautista el Elías por venir? `Mt 4:4-5`
-      FIXME: Mateo o malaquias?, Ruti dice que Malaquias
+- [ ] ¿Fué Juan el bautista el Elías por venir? `Ml 4:4-5`
 - [ ] Mencione 30 citas del `Antiguo Testamento` usadas en el `Nuevo Testamento`
 
 ## Tarea 4
