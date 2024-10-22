@@ -1,0 +1,6 @@
+- [x] Bosquejo del libro, contexto historico, Bosquejo
+- [ ] Analisis sintactico del pasaje + comparacion a la luz del original (lexica)
+- [ ] Diagrama del pasaje
+- [ ] Bosquejos
+- [ ] Homiletica
+- [ ] Preparación para predicar
