@@ -1,6 +1,6 @@
 # Bosquejos
 
-Tenemos muchos tipos de bosquejos (de un pasaje):
+Tenemos muchos tipos de bosquejos (de un pasaje, no de predica):
 
 1. Cronologico
 2. Logico
@@ -12,3 +12,8 @@ Tenemos muchos tipos de bosquejos (de un pasaje):
 >
 > Un buen bosquejo intenta ilustrar como piensa el autor biblico, NO COMO
 > PENSAMOS NOSOTROS
+
+## Proceso
+
+Para el bosquejo se hace previamente el analisis sintactico y diagrama del
+pasaje, desde donde se ve la estructura interna del pasaje.
