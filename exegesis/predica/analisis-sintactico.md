@@ -26,35 +26,36 @@ El pasaje se puede dividir en las siguientes secciones:
 
 ### Analisis extenso
 
-**Verso 1 (implícito en algunas versiones): Se sobreentiende una exhortación general a vivir como hijos de luz, que sirve de introducción al pasaje.**
+**Verso 1 (implícito en algunas versiones):**
+
+- Se sobreentiende una exhortación general a vivir como hijos de luz, que sirve de introducción al pasaje.
 
 **Verso 2 (Sed, pues, imitadores de Dios como hijos amados):**
 
-Sed: Verbo imperativo, segunda persona del plural (vosotros). Exhortación a la acción.
-imitadores de Dios: Complemento predicativo. "Imitadores" es el núcleo, y "de Dios" complemento del nombre. Indica a quién se debe imitar.
-como hijos amados: Comparación. "Como" introduce la comparación. "Hijos amados" es el término de la comparación y justifica la imitación de Dios.
+- Sed: Verbo imperativo, segunda persona del plural (vosotros). Exhortación a la acción.
+- imitadores de Dios: Complemento predicativo. "Imitadores" es el núcleo, y "de Dios" complemento del nombre. Indica a quién se debe imitar.
+- como hijos amados: Comparación. "Como" introduce la comparación. "Hijos amados" es el término de la comparación y justifica la imitación de Dios.
 
 **Verso 3 (Y andad en amor, como también Cristo nos amó, y se entregó a sí mismo por nosotros, ofrenda y sacrificio a Dios en olor fragante):**
 
-Y andad en amor: Exhortación. "Andad" es verbo, "en amor" complemento circunstancial de modo.
-como también Cristo nos amó: Comparación. "Como" introduce la comparación, y la cláusula describe el amor de Cristo como modelo.
-y se entregó a sí mismo por nosotros: Coordinada copulativa a la anterior. Describe la acción de Cristo motivada por el amor. "a sí mismo" es complemento directo, "por nosotros" complemento indirecto.
-ofrenda y sacrificio a Dios en olor fragante: Aposición explicativa de "se entregó a sí mismo". Describe la naturaleza de la entrega de Cristo.
+- Y andad en amor: Exhortación. "Andad" es verbo, "en amor" complemento circunstancial de modo.
+- como también Cristo nos amó: Comparación. "Como" introduce la comparación, y la cláusula describe el amor de Cristo como modelo.
+- y se entregó a sí mismo por nosotros: Coordinada copulativa a la anterior. Describe la acción de Cristo motivada por el amor. "a sí mismo" es complemento directo, "por nosotros" complemento indirecto.
+- ofrenda y sacrificio a Dios en olor fragante: Aposición explicativa de "se entregó a sí mismo". Describe la naturaleza de la entrega de Cristo.
 
 **Verso 4 (Pero fornicación y toda inmundicia, o avaricia, ni aun se nombre entre vosotros, como conviene a santos):**
 
-fornicación y toda inmundicia, o avaricia: Sujeto de la oración. Enumeración de vicios.
-ni aun se nombre: Predicado verbal. "Se nombre" es verbo impersonal. "ni aun" refuerza la negación.
-entre vosotros: Complemento circunstancial de lugar.
-como conviene a santos: Comparación. Justifica la prohibición.
+- fornicación y toda inmundicia, o avaricia: Sujeto de la oración. Enumeración de vicios.
+- ni aun se nombre: Predicado verbal. "Se nombre" es verbo impersonal. "ni aun" refuerza la negación.
+- entre vosotros: Complemento circunstancial de lugar.
+- como conviene a santos: Comparación. Justifica la prohibición.
 
 **Verso 5 (Porque sabéis esto, que ningún fornicario, o inmundo, o avaro, que es idólatra, tiene herencia en el reino de Cristo y de Dios):**
 
-Porque: Conjunción causal, introduce la razón de la prohibición anterior.
-sabéis esto: Oración principal.
-que ningún fornicario... tiene herencia...: Oración subordinada sustantiva, complemento directo de "sabéis".
-que es idólatra: Oración subordinada adjetiva explicativa, referida a "avaro".
-Aquí tienes el análisis sintáctico de los versos 6 al 10 de Efesios 5:
+- Porque: Conjunción causal, introduce la razón de la prohibición anterior.
+- sabéis esto: Oración principal.
+- que ningún fornicario... tiene herencia...: Oración subordinada sustantiva, complemento directo de "sabéis".
+- que es idólatra: Oración subordinada adjetiva explicativa, referida a "avaro".
 
 **Verso 6 (Nadie os engañe con palabras vanas, porque por estas cosas viene la ira de Dios sobre los hijos de desobediencia):**
 
