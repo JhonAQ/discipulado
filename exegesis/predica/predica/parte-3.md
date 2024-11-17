@@ -1,6 +1,6 @@
 **III. Evidencias del Andar en la Luz (Efesios 5:9-10)**
 
-Amados hermanos y hermanas, habiendo reconocido nuestra nueva identidad como hijos de luz, el apóstol Pablo nos guía ahora a considerar las evidencias prácticas de lo que significa andar en la luz. En Efesios 5:9-10, nos presenta características concretas que deben manifestarse en nuestra vida diaria como resultado de esa transformación interna que Dios ha operado en nosotros.
+Habiendo reconocido nuestra nueva identidad como hijos de luz, el apóstol Pablo nos guía ahora a considerar las evidencias de lo que significa andar en la luz. En Efesios 5:9-10, nos presenta características concretas que deben manifestarse en nuestra vida diaria como resultado de esa transformación interna que Dios ha operado en nosotros.
 
 **A. El Fruto del Espíritu/Luz (v.9)**
 
@@ -16,7 +16,7 @@ Pablo declara en el versículo 9: "Porque el fruto del Espíritu es en toda bond
 
    Pablo identifica tres virtudes específicas que componen este fruto:
 
-   - **Bondad**: Se refiere a una benevolencia activa y generosa hacia otros. No es simplemente evitar el mal, sino hacer el bien de manera intencional. Es una disposición del corazón que busca el bienestar de los demás, reflejando el amor y la misericordia de Dios.
+   - **Bondad**: Se refiere a una benevolencia de corazón y generosa hacia otros. No es simplemente evitar el mal, sino hacer el bien de manera intencional. Es una disposición del corazón que busca el bienestar de los demás, reflejando el amor y la misericordia de Dios.
 
      La bondad nos impulsa a ser compasivos, a tender la mano al necesitado, a mostrar gracia incluso cuando no es merecida. Jesús es nuestro máximo ejemplo de bondad; sanó a los enfermos, alimentó a los hambrientos y extendió misericordia a los pecadores.
 
@@ -28,7 +28,7 @@ Pablo declara en el versículo 9: "Porque el fruto del Espíritu es en toda bond
 
      Jesús dijo en Juan 14:6: "Yo soy el camino, la verdad y la vida". Al seguirle, abrazamos la verdad y rechazamos toda forma de engaño. La verdad nos guía en nuestras decisiones y nos mantiene firmes ante las mentiras del mundo.
 
-   **El Fruto como Evidencia**
+   **pte: El Fruto como Evidencia**
 
    Es crucial entender que este fruto no es producto de nuestros esfuerzos humanos o de intentar ser "buenas personas" por nuestra cuenta. Es el resultado de la obra del Espíritu Santo en nosotros. Al permanecer en Cristo y permitir que Su Espíritu nos transforme, este fruto se manifestará naturalmente en nuestra vida.
 
@@ -58,24 +58,18 @@ Pablo continúa en el versículo 10 diciendo: "comprobando lo que es agradable a
 
    **Herramientas para el Discernimiento**
 
-   - **La Palabra de Dios**: Las Escrituras son nuestra guía infalible. En ellas encontramos los principios y enseñanzas que nos muestran el corazón de Dios. El Salmo 119:105 declara: "Lámpara es a mis pies tu palabra, y lumbrera a mi camino".
+   - **La Palabra de Dios**: Las Escrituras son nuestra guía infalible. En ellas encontramos los principios y enseñanzas que nos muestran el corazón de Dios. El Salmo 119:105 dice: "Lámpara es a mis pies tu palabra, y lumbrera a mi camino".
 
    - **La guía del Espíritu Santo**: El Espíritu nos ilumina y nos ayuda a entender las Escrituras y aplicarlas a nuestra vida. Jesús prometió en Juan 16:13: "Pero cuando venga el Espíritu de verdad, él os guiará a toda la verdad".
 
    - **Oración**: A través de la comunión con Dios en oración, podemos buscar Su dirección y sabiduría. Santiago 1:5 nos anima: "Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios... y le será dada".
 
-   **Aplicación Práctica**
+   **pte: Aplicación Práctica**
 
    - **Evaluar nuestras decisiones y acciones a la luz de las Escrituras**: Antes de tomar decisiones importantes o incluso en las actividades cotidianas, debemos preguntarnos si lo que estamos haciendo está en consonancia con la Palabra de Dios.
 
-     Por ejemplo, si enfrentamos una decisión ética en el trabajo, debemos considerar qué principios bíblicos aplican y elegir el camino que honra a Dios, incluso si es más difícil.
+     Siempre nos vamos a enfrentar a decisiones dificiles, en el trabajo, en la familia, con los amigos, pero debemos considerar los principios bíblicos que nos fueron dados, y elegir el camino que honra a Dios, incluso si este es el camino más dificil.
 
    - **Buscar agradar a Dios en todo**: Nuestro objetivo no debe ser complacer a los hombres o buscar nuestra propia satisfacción, sino agradar al Señor en todo. Colosenses 3:23 nos instruye: "Y todo lo que hagáis, hacedlo de corazón, como para el Señor y no para los hombres".
 
    - **Ser sensibles a la dirección del Espíritu Santo**: Esto implica estar atentos a Su voz, ser obedientes a Sus impulsos y estar dispuestos a corregir nuestro rumbo cuando Él nos lo indique.
-
-   **Reflexión Personal**
-
-   - ¿Estoy dedicando tiempo a estudiar y meditar en la Palabra de Dios?
-   - ¿Busco Su dirección en oración antes de tomar decisiones?
-   - ¿Estoy más preocupado por agradar a Dios que a las personas o a mí mismo?

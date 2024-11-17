@@ -1,6 +1,6 @@
 **V. Aplicaciones Prácticas y Conclusión**
 
-Amados hermanos y hermanas, al llegar al final de nuestro estudio de Efesios 5:6-12, es esencial que consideremos cómo aplicar estas verdades a nuestra vida diaria. La Palabra de Dios no es solo para ser escuchada, sino para ser vivida. Santiago 1:22 nos exhorta: "Pero sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos". Por lo tanto, veamos cómo podemos poner en práctica lo que hemos aprendido.
+Ahora, es esencial que consideremos cómo aplicar estas verdades a nuestra vida diaria. La Palabra de Dios no es solo para ser escuchada, sino para ser vivida. Santiago 1:22 nos exhorta: "Pero sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos". Por lo tanto, veamos cómo podemos poner en práctica lo que hemos aprendido.
 
 **A. Vigilancia Espiritual**
 

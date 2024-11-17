@@ -1,6 +1,6 @@
 **IV. Rechazo Activo de las Obras de las Tinieblas (Efesios 5:11-12)**
 
-Hermanos y hermanas, al avanzar en nuestro estudio de Efesios 5, llegamos a una sección que nos desafía a tomar una postura firme y activa contra el pecado y las obras de las tinieblas. En los versículos 11 y 12, el apóstol Pablo no solo nos llama a evitar participar en acciones pecaminosas, sino que también nos exhorta a reprenderlas. Este es un llamado a la santidad y a ser agentes de luz en medio de un mundo oscuro.
+En los versículos 11 y 12, Pablo no solo nos llama a evitar participar en acciones pecaminosas, sino que también nos exhorta a reprenderlas. Este es un llamado a la santidad y a ser agentes de luz en medio de un mundo oscuro.
 
 **A. No Participar en las Obras Infructuosas (v.11a)**
 
@@ -25,12 +25,6 @@ Pablo comienza en el versículo 11 diciendo: "Y no participéis en las obras inf
    Al no participar en las obras infructuosas de las tinieblas, estamos respondiendo al llamado a la santidad que Dios nos hace. La santidad implica separación del mal y dedicación a Dios. 1 Pedro 1:15-16 nos exhorta: "sino, como aquel que os llamó es santo, sed también vosotros santos en toda vuestra manera de vivir; porque escrito está: Sed santos, porque yo soy santo".
 
    Esto significa que debemos evitar no solo las acciones pecaminosas obvias, sino también cualquier asociación o compromiso que pueda llevarnos a comprometer nuestros valores y convicciones en Cristo.
-
-   **Aplicación Práctica**
-
-   - **Evaluar nuestras actividades y entretenimientos**: ¿Hay programas, música, sitios web o actividades que consumimos que promueven valores contrarios a los de Dios?
-   - **Examinar nuestras amistades y relaciones**: ¿Estamos permitiendo que influencias negativas nos alejen de la voluntad de Dios?
-   - **Ser intencionales en elegir la rectitud**: Decidir cada día vivir de manera que honre a Dios, aun cuando sea difícil o impopular.
 
 **B. Llamado a Reprender las Obras de las Tinieblas (v.11b)**
 
@@ -58,7 +52,6 @@ Pablo no se detiene en simplemente evitar el mal, sino que añade: "sino más bi
    **Aplicación Práctica**
 
    - **Confrontar el pecado con amor**: Si vemos a un hermano o hermana desviándose, acercarnos con humildad y compasión para ayudarles a regresar al camino correcto.
-   - **Ser voces de justicia en la sociedad**: Denunciar las injusticias, defender al oprimido y ser portavoces de la verdad en medio de un mundo que a menudo celebra el mal.
    - **Vivir como ejemplo**: Nuestra propia vida debe ser un testimonio que reprenda las tinieblas, mostrando una alternativa mejor y más elevada en Cristo.
 
 **C. La Vergüenza del Pecado Oculto (v.12)**
@@ -71,22 +64,21 @@ Pablo concluye esta sección diciendo: "Porque vergonzoso es aun hablar de lo qu
 
    El pecado oculto es particularmente peligroso porque se practica en la oscuridad, lejos de la vista pública. Estas prácticas pueden ser perversas y profundamente destructivas, tanto para quienes las cometen como para quienes podrían ser afectados indirectamente.
 
-   Pablo nos advierte que tales actos son tan vergonzosos que incluso mencionarlos puede ser inapropiado. Esto no significa que debemos ignorar el pecado, sino que debemos abordarlo con la seriedad y reverencia que merece.
+   El pecado es tan peligroso, que Pablo remarca que es vergonzoso aún hablar, un acto tan simple como hablar.
+   Muchas veces podemos pensar que el pecado puede ser hecho en secreto, pero aun cuando pensamos que nadie más esta viendo como vivimos, Dios está siempre presente, revisando nuestros pensamientos, viendo nuestras acciones.
 
    **Precaución en el Discurso**
 
-   Al hablar del pecado, debemos tener cuidado de no glorificarlo o trivializarlo. En un mundo donde los medios de comunicación a menudo celebran o normalizan conductas pecaminosas, los creyentes estamos llamados a mantener la pureza en nuestras conversaciones y pensamientos.
-
-   Filipenses 4:8 nos aconseja: "Por lo demás, hermanos, todo lo que es verdadero, todo lo honesto, todo lo justo, todo lo puro... en esto pensad".
+   Al ser parte de la nueva vida en Cristo, hemos dejado atrás todo aquello que no le agrada a dios, y por esto Pablo dice que incluso hablar del pecado es algo vergonozoso, "¿Por que los que hemos muerto al pecado, como viviremos aun en el?" (Romanos 6:2).
 
    **Llamado a la Pureza**
 
    - **Guardar nuestros corazones y mentes**: Proverbios 4:23 nos instruye: "Sobre toda cosa guardada, guarda tu corazón; porque de él mana la vida". Debemos protegernos de influencias que puedan contaminar nuestra pureza espiritual.
-   - **Ser ejemplos en palabra y conducta**: 1 Timoteo 4:12 nos anima: "Sé ejemplo de los creyentes en palabra, conducta, amor, espíritu, fe y pureza".
-   - **Evitar la participación en chismes o conversaciones inapropiadas**: Debemos abstenernos de discusiones que puedan promover el pecado o faltar al respeto a otros.
+   - **Ser ejemplos en palabra y conducta**: 1 Timoteo 4:12b nos anima: "Sé ejemplo de los creyentes en palabra, conducta, amor, espíritu, fe y pureza".
+   - **Evitar la participación en chismes o conversaciones inapropiadas**: Debemos abstenernos de discusiones que puedan promover el pecado o generar en nuestros corazones pensamientos malos.
 
    **Aplicación Práctica**
 
-   - **Cultivar pensamientos y conversaciones edificantes**: Buscar temas que edifiquen y glorifiquen a Dios, evitando el sensacionalismo o el morbo.
-   - **Ser discretos al abordar el pecado**: Cuando sea necesario hablar del pecado, hacerlo con sensibilidad y respeto, evitando detalles innecesarios que puedan ser perjudiciales.
+   - **Cultivar pensamientos y conversaciones edificantes**:
+     La biblia anima a buscar de cosas que edifiquen y glorifiquen a Dios, evitando las vanas palabrerías, y siendo prudentes en nuestra forma de hablar.
    - **Fomentar un ambiente de santidad**: En nuestros hogares, iglesias y lugares de trabajo, promover valores y prácticas que reflejen la pureza y santidad de Dios.

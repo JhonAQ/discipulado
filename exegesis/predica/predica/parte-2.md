@@ -1,6 +1,6 @@
 **II. Identidad Transformada: De Tinieblas a Luz (Efesios 5:8)**
 
-Queridos hermanos y hermanas, continuando con nuestro estudio de Efesios 5, llegamos a un versículo que es central en nuestra comprensión de lo que significa ser cristiano: Efesios 5:8. Aquí, el apóstol Pablo nos recuerda la transformación radical que hemos experimentado en Cristo. Este versículo nos lleva a reflexionar sobre nuestro pasado, reconocer nuestra nueva identidad y responder al llamado a vivir de acuerdo con esa realidad.
+Llegamos a un versículo que es central en nuestra comprensión de lo que significa ser cristiano: Efesios 5:8. Aquí, el apóstol Pablo nos recuerda la transformación radical que hemos experimentado en Cristo. Este versículo nos lleva a reflexionar sobre nuestro pasado, reconocer nuestra nueva identidad y responder al llamado a vivir de acuerdo con esa realidad.
 
 **A. Reconocimiento de la Condición Pasada (v.8a)**
 
@@ -16,19 +16,17 @@ Pablo comienza diciendo: "Porque en otro tiempo erais tinieblas". Notemos que no
 
    En esa condición, estábamos separados de Dios, sin esperanza y sin la capacidad de cambiar por nuestras propias fuerzas. Efesios 2:12 nos recuerda que en aquel tiempo estábamos "sin Cristo... sin esperanza y sin Dios en el mundo". Vivíamos conforme a los deseos de nuestra carne, siguiendo el curso de este mundo y bajo la influencia del maligno.
 
-   **Reflexión Personal**
+   **(pte: Reflexión Personal)**
 
    Es importante que recordemos de dónde nos ha sacado el Señor. No para vivir en culpa o vergüenza, sino para apreciar la magnitud de Su gracia y misericordia. Al reconocer nuestra condición pasada, podemos comprender mejor la grandeza de la salvación que hemos recibido.
 
-   Preguntémonos: ¿Hemos olvidado alguna vez de dónde nos rescató Dios? ¿Tomamos por sentado Su gracia? Recordar nuestro pasado sin Cristo nos llena de gratitud y nos motiva a vivir plenamente para Él.
+   Preguntémonos: ¿Hemos olvidado alguna vez de dónde nos rescató Dios? ¿O tomamos su gracia por sentado? Recordar nuestro pasado sin Cristo nos llena de gratitud y nos motiva a vivir plenamente para Él.
 
 **B. La Nueva Identidad en Cristo (v.8b)**
 
-Pablo continúa: "mas ahora sois luz en el Señor". Aquí vemos un contraste poderoso y transformador.
+Pablo continúa: "mas ahora sois luz en el Señor". Aquí vemos un contraste muy importante.
 
 1. **"Mas ahora sois luz en el Señor"**
-
-   **Un Cambio Radical**
 
    La expresión "mas ahora" indica una transición drástica. De ser tinieblas, hemos pasado a ser luz. No es simplemente que hemos recibido luz o que estamos en la luz; ahora somos luz en el Señor. Este cambio no es superficial; es una transformación profunda de nuestra naturaleza.
 
@@ -52,25 +50,25 @@ Pablo continúa: "mas ahora sois luz en el Señor". Aquí vemos un contraste pod
 
    Al ser hechos luz en el Señor, participamos de Su naturaleza divina. 2 Pedro 1:4 nos dice que hemos sido hechos "participantes de la naturaleza divina, habiendo huido de la corrupción que hay en el mundo a causa de la concupiscencia".
 
-   Esto no significa que nos volvemos dioses, sino que compartimos en las cualidades morales y espirituales que Dios nos imparte. Tenemos el privilegio y la responsabilidad de reflejar Su carácter en nuestras vidas.
+   Esto no significa que nos volvemos dioses, sino que compartimos en las cualidades morales y espirituales que Dios nos imparte. Tenemos el privilegio y la responsabilidad de reflejar Su carácter en nuestras vidas, hasta en lo más pequeño que hagamos, por que esa es la forma en que manifestamos ser hechos "Hijos de Dios".
 
 **C. Mandato a Vivir Conforme a la Nueva Identidad (v.8c)**
 
-Pablo concluye el versículo con una exhortación práctica: "Andad como hijos de luz".
+Pablo termina el versículo con una exhortación práctica: "Andad como hijos de luz".
 
 1. **"Andad como hijos de luz"**
 
-   **Significado de "andar"**
+   **(pte: Significado de "andar")**
 
    En las cartas de Pablo, "andar" es un término frecuente que se refiere a nuestro estilo de vida o conducta diaria. No se trata de acciones esporádicas, sino de una forma de vida constante y coherente. Andar implica movimiento, progreso y dirección.
 
-   **"Hijos de luz"**
+   **pte: "Hijos de luz"**
 
    Al llamarnos "hijos de luz", Pablo enfatiza nuestra relación con Dios y nuestra participación en Su familia. Así como los hijos reflejan características de sus padres, estamos llamados a reflejar el carácter de Dios, quien es luz.
 
    Ser hijos de luz significa que debemos manifestar en nuestras vidas las cualidades de la luz: verdad, pureza, justicia y amor.
 
-   **Responsabilidad del Creyente**
+   **pte: Responsabilidad del Creyente**
 
    La transformación que hemos experimentado en Cristo conlleva una responsabilidad. No basta con saber que somos luz; debemos vivir como tal. Nuestra conducta debe estar en armonía con nuestra identidad.
 

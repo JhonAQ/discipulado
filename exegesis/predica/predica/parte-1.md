@@ -20,7 +20,7 @@ La carta de Efesios es una de las cartas con un mensaje bien bonito, ya que lo p
 
 La carta de Efesios se divide en dos partes principales. La primera está llena de enseñanzas teológicas profundas sobre quiénes somos en Cristo y el propósito de Dios de unificar a todas las naciones en Su familia. La segunda parte es muy práctica y nos muestra cómo vivir esa nueva vida en nuestras relaciones y acciones diarias.
 
-Al entender este trasfondo, podemos ver que el mensaje de Pablo no solo era para los efesios, sino que también es para nosotros hoy. Vivimos en un mundo lleno de distracciones y filosofías que pueden alejarnos de Dios. Pero al igual que ellos, estamos llamados a ser luz y a reflejar el amor de Cristo en todo lo que hacemos.
+Al entender este trasfondo, podemos ver que el mensaje de Pablo no solo era para los efesios, sino que también es para nosotros hoy. Vivimos en un mundo lleno de distracciones y costumbres mundanas que pueden alejarnos de Dios. Pero al igual que ellos, estamos llamados a ser luz y a reflejar el amor de Cristo en todo lo que hacemos.
 
 ---
 
@@ -28,24 +28,24 @@ Al entender este trasfondo, podemos ver que el mensaje de Pablo no solo era para
 
 **A. No Dejarse Engañar (v.6a)**
 
-Pablo nos dice: "Que nadie los engañe con argumentos vanos". Imagino a los efesios escuchando tantas voces a su alrededor, cada una con sus propias ideas y filosofías. Éfeso, con su diversidad cultural y religiosa, presentaba un desafío constante para quienes querían mantenerse fieles al evangelio. Es fácil perderse cuando tantas cosas compiten por nuestra atención y lealtad.
+Pablo nos dice: "Que nadie los engañe con argumentos vanos". Me imagino a los efesios escuchando tantas voces a su alrededor, cada una con sus propias ideas y filosofías, tanas corrientes de pensamiento distinto, que si el hombre es un espíritu, o el hombre es una idea, un pensamiento, o realmente somos personas que juegan sus roles encima de un disco grande a espaldas de miles de tortugas apiladas: El hombre no conocía nada de sí mismo, y habían tantas interpretaciones como culturas y sus dioses, precisamente eso era Éfeso, el centro de la diversidad y cultura de Asia Menor, presentaba un desafío constante para quienes querían mantenerse fieles al evangelio. Es fácil perderse cuando tantas cosas compiten por nuestra atención y lealtad, especialmente si son la forma en que hemos crecido toda nuestra vida.
 
-Hoy no es muy diferente, ¿verdad? Estamos rodeados de mensajes que intentan suavizar o justificar comportamientos que van en contra de lo que Dios nos enseña. Frases como "todo es relativo" o "haz lo que te haga feliz" suenan atractivas, pero pueden desviarnos del camino que Dios tiene para nosotros.
+Y a esto se refiere con 'palabras vanas', son palabras carentes de contenido, que no edifican, sino nublan el entendimiento, de eso abunda en nuestros tiempos.
+
+Hoy no es muy diferente, ¿verdad? Estamos rodeados de mensajes que intentan suavizar o justificar comportamientos que van en contra de lo que Dios nos enseña. Vemos a diario que la sociedad intenta normalizar el pecado, incluso a veces nosotros mismo empezamos a naturalizar el pecado, pero estas cosas nos alejan de Dios.
 
 Por eso, es crucial que estemos atentos y no aceptemos todo lo que se nos presenta. Necesitamos discernir y comparar lo que escuchamos con la verdad que encontramos en la Biblia.
 
 **B. Las Consecuencias Reales del Pecado (v.6b)**
 
-Pablo continúa: "porque por causa de estas cosas viene la ira de Dios sobre los desobedientes". Aquí nos recuerda que nuestras acciones tienen peso y que el pecado no es algo ligero. A veces, preferimos no hablar de la ira de Dios porque nos incomoda, pero entenderla nos ayuda a valorar más Su gracia y misericordia.
+Pablo continúa: "porque por causa de estas cosas viene la ira de Dios sobre los desobedientes". Aquí nos recuerda que nuestras acciones tienen peso y que el pecado no es algo ligero. A veces, preferimos no hablar de la ira de Dios porque nos incomoda, a muchos nos molesta escuchar las cosas en las que estamos mal, pero esto nos ayuda a valorar mas su gracia y misericordia.
 
-Dios es amor, sí, pero también es justo. Su deseo no es castigarnos, sino rescatarnos y guiarnos hacia una vida plena. Sin embargo, cuando persistimos en el pecado, nos alejamos de Él y enfrentamos las consecuencias de nuestras decisiones. Es como cuando un padre advierte a su hijo que no toque el fuego. No es por limitarlo, sino por amor y protección. Ignorar esas advertencias puede llevarnos a heridas profundas.
+Dios es amor, sí, pero también es justo. Su deseo no es castigarnos, sino rescatarnos y guiarnos hacia una vida plena. Sin embargo, cuando persistimos en el pecado, nos alejamos de Él y enfrentamos las consecuencias de nuestras decisiones. Y a esto se refiere como "hijos de desobediencia", indicando a aquellos que se caracterizan por la desobediencia continua. Es como cuando un padre advierte a su hijo que no toque el fuego. No es por limitarlo, sino por amor y protección. Ignorar esas advertencias puede llevarnos a heridas profundas.
 
 **C. Un Llamado a Alejarnos del Pecado (v.7)**
 
 Finalmente, Pablo nos dice: "No se hagan cómplices de ellos". Esto me hace pensar en las influencias que permitimos en nuestra vida. No significa que debamos aislarnos del mundo, pero sí que tengamos cuidado con lo que aceptamos y a quién seguimos.
 
-Quizás sea momento de reflexionar sobre nuestras amistades, los lugares que frecuentamos o los hábitos que hemos adoptado. ¿Nos acercan a Dios o nos alejan de Él? Recordemos que hemos sido llamados a ser diferentes, a marcar la diferencia en medio de un mundo que necesita luz. Personalmente, he tenido que tomar decisiones difíciles en cuanto a relaciones o actividades que no me edificaban espiritualmente.
+Quizás sea momento de reflexionar sobre nuestras amistades, los lugares que frecuentamos o los hábitos que hemos adoptado. ¿Nos acercan a Dios o nos alejan de Él? Recordemos que hemos sido llamados a ser diferentes, a marcar la diferencia en medio de un mundo que necesita luz. Hace poco escuche que los cristianos somos como "La biblia que el mundo lee", nosotros mostramos en nuestra vida el accionar de Cristo, pongamonos a pensar, ¿Qué estoy predicando al mundo?, ¿Que mensaje estoy dando a las personas que me rodean?
 
 No es fácil, lo sé. Pero no estamos solos en este camino. Dios nos da la fuerza y la sabiduría para vivir de manera que le honremos. Y cuando fallamos, Su gracia está ahí para levantarnos y seguir adelante.
-
----
