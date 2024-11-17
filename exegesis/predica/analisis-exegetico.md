@@ -8,7 +8,7 @@ El pasaje de Efesios 5:6-12 es una exhortación del apóstol Pablo a los creyent
 
 ---
 
-**1. Lectura Cuidadosa del Pasaje**
+**1. Vista en varias versiones**
 
 Para captar plenamente el mensaje, consideremos varias traducciones:
 
