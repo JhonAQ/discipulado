@@ -1,52 +1,61 @@
-# Prédica - Efesios 5:6:12
-
+---
+title: "Predica Efesios 5:6-12"
+author: "Jhonatan Arias"
+date: "2024-11-17"
+geometry: margin=1in
+fontsize: 12pt
 ---
 
 **Introducción**
 
-Queridos hermanos y hermanas, hoy nos reunimos para sumergirnos en la Palabra de Dios y reflexionar sobre un pasaje que nos desafía a vivir de acuerdo con nuestra nueva identidad en Cristo. Nos encontramos en la carta del apóstol Pablo a los Efesios, específicamente en Efesios 5:6-12. Este pasaje se sitúa en la sección práctica de la epístola, donde Pablo exhorta a los creyentes a traducir la doctrina en vida cotidiana, a plasmar la teología en práctica real.
+(saludo, dependiendo si es para la iglesia o jovenes) {Muy buenas noches hermanos, es una alegría poder compartir este tiempo juntos, ya sea aquí en la iglesia o conectados desde casa.}
 
-El tema general que aborda este texto es el contraste entre las tinieblas y la luz, y el llamado urgente a vivir como hijos de luz. Pablo nos advierte sobre el peligro del engaño, nos recuerda las consecuencias del pecado y nos insta a separarnos de las obras de las tinieblas. El propósito de nuestra predicación hoy es explorar cómo este pasaje nos instruye a evitar ser engañados, a rechazar las obras infructuosas de las tinieblas y a caminar en la luz de Dios, reflejando Su carácter en cada aspecto de nuestras vidas.
+Hoy quiero compartir con ustedes un pasaje que nos reta a vivir conforme a nuestra identidad en Cristo. Estamos en Efesios 5:6-12, donde el apóstol Pablo nos anima a transformar lo que creemos en acciones concretas, a llevar nuestra fe a la vida diaria.
+
+El texto que veremos, se encuentra en Efesios 5:6-12, {Breve introducción mientras buscan el pasaje en sus biblioas} nos habla del contraste entre vivir en la oscuridad y caminar en la luz. Pablo nos advierte sobre el peligro de dejarnos engañar, nos recuerda las consecuencias del pecado y nos llama a alejarnos de aquello que no agrada a Dios. Leamos Efesios 5:6-12.
+
+Antes de profundizar en el pasaje, me gustaría que entendiéramos un poco más sobre el contexto en el que fue escrito. La carta a los Efesios fue escrita por el apóstol Pablo alrededor del año 60-62 d.C., mientras estaba preso en Roma. Imaginen a Pablo, encarcelado, pero aún así preocupado por las iglesias y deseando fortalecer su fe.
+
+La iglesia en Éfeso fue iniciada por Priscila y Aquila, colaboradores cercanos de Pablo, y luego establecida por el mismo apóstol durante uno de sus viajes misioneros. Éfeso era una ciudad muy importante en Asia Menor, un centro comercial y cultural. Allí se encontraba el majestuoso templo de Artemisa, una de las siete maravillas del mundo antiguo, lo que hacía de la ciudad un lugar lleno de prácticas paganas y adoración a dioses falsos.
+
+Los creyentes en Éfeso vivían rodeados de influencias que podían desviarles de su fe. No solo enfrentaban la idolatría y la inmoralidad de la sociedad, sino también la aparición de falsas doctrinas dentro de la iglesia. De hecho, Timoteo, un discípulo cercano de Pablo, fue enviado a pastorear esta iglesia para confrontar esas enseñanzas erróneas.
+
+Es interesante notar que en el libro de Apocalipsis, Jesús se dirige a la iglesia de Éfeso y les dice que han "perdido su primer amor". Esto nos muestra que, a pesar de su conocimiento y trabajo arduo, podían caer en la rutina y olvidar la pasión por Dios.
+
+La carta de Efesios es una de las cartas con un mensaje bien bonito, ya que lo podemos ver como, un manual práctico que nos ayuda a ver cómo el evangelio debería tener un impacto en la vida del creyente, contiene consejos prácticos sobre como deberíamos llevar nuestro día a día, lidiando con los problemas comunes que vemos a nuestro alrededor en este mundo que nos rodea.
+
+La carta de Efesios se divide en dos partes principales. La primera está llena de enseñanzas teológicas profundas sobre quiénes somos en Cristo y el propósito de Dios de unificar a todas las naciones en Su familia. La segunda parte es muy práctica y nos muestra cómo vivir esa nueva vida en nuestras relaciones y acciones diarias.
+
+Al entender este trasfondo, podemos ver que el mensaje de Pablo no solo era para los efesios, sino que también es para nosotros hoy. Vivimos en un mundo lleno de distracciones y filosofías que pueden alejarnos de Dios. Pero al igual que ellos, estamos llamados a ser luz y a reflejar el amor de Cristo en todo lo que hacemos.
 
 ---
 
-**I. Advertencia contra el Engaño y las Consecuencias del Pecado (Efesios 5:6-7)**
+**I. Advertencia Contra el Engaño y las Consecuencias del Pecado (Efesios 5:6-7)**
 
-**A. Exhortación a No Ser Engañados (v.6a)**
+**A. No Dejarse Engañar (v.6a)**
 
-En primer lugar, Pablo nos dice en el versículo 6: "Nadie os engañe con palabras vanas". Aquí, el apóstol nos hace una advertencia clara y directa. Pero, ¿qué son estas "palabras vanas" de las que nos habla?
+Pablo nos dice: "Que nadie los engañe con argumentos vanos". Imagino a los efesios escuchando tantas voces a su alrededor, cada una con sus propias ideas y filosofías. Éfeso, con su diversidad cultural y religiosa, presentaba un desafío constante para quienes querían mantenerse fieles al evangelio. Es fácil perderse cuando tantas cosas compiten por nuestra atención y lealtad.
 
-Las "palabras vanas" son mensajes vacíos, carentes de verdad y sustancia. Son discursos que, aunque pueden sonar atractivos o persuasivos, no tienen fundamento en la verdad de Dios. En el contexto de la iglesia en Éfeso, estos mensajes provenían de falsos maestros y filosofías paganas que minimizaban la gravedad del pecado y promovían una vida contraria a los principios divinos.
+Hoy no es muy diferente, ¿verdad? Estamos rodeados de mensajes que intentan suavizar o justificar comportamientos que van en contra de lo que Dios nos enseña. Frases como "todo es relativo" o "haz lo que te haga feliz" suenan atractivas, pero pueden desviarnos del camino que Dios tiene para nosotros.
 
-Pablo sabía que los efesios estaban rodeados de influencias que podían desviarles del camino. La ciudad de Éfeso era un centro de adoración pagana, famosa por el templo de Artemisa, y estaba impregnada de prácticas y creencias que chocaban con el evangelio de Cristo. Los creyentes estaban expuestos a enseñanzas que justificaban comportamientos inmorales y promovían una falsa libertad.
+Por eso, es crucial que estemos atentos y no aceptemos todo lo que se nos presenta. Necesitamos discernir y comparar lo que escuchamos con la verdad que encontramos en la Biblia.
 
-Esta advertencia es tan relevante hoy como lo fue en aquel entonces. En nuestra sociedad contemporánea, también somos bombardeados con ideologías y doctrinas que intentan relativizar el pecado y distorsionar la verdad de Dios. Frases como "todo es relativo", "sigue tu corazón" o "si te hace feliz, está bien" son ejemplos modernos de "palabras vanas" que pueden engañarnos si no estamos firmes en la Palabra.
+**B. Las Consecuencias Reales del Pecado (v.6b)**
 
-La aplicación para nosotros es clara: debemos ejercer discernimiento espiritual. No todo lo que suena bien es verdad, y no todo lo que el mundo aprueba es aceptable ante Dios. Necesitamos filtrar cada mensaje, cada enseñanza y cada filosofía a través del lente de las Escrituras. Como hijos de Dios, estamos llamados a ser como los bereanos, que "escudriñaban cada día las Escrituras para ver si estas cosas eran así" (Hechos 17:11).
+Pablo continúa: "porque por causa de estas cosas viene la ira de Dios sobre los desobedientes". Aquí nos recuerda que nuestras acciones tienen peso y que el pecado no es algo ligero. A veces, preferimos no hablar de la ira de Dios porque nos incomoda, pero entenderla nos ayuda a valorar más Su gracia y misericordia.
 
-**B. Consecuencias del Pecado: La Ira de Dios (v.6b)**
+Dios es amor, sí, pero también es justo. Su deseo no es castigarnos, sino rescatarnos y guiarnos hacia una vida plena. Sin embargo, cuando persistimos en el pecado, nos alejamos de Él y enfrentamos las consecuencias de nuestras decisiones. Es como cuando un padre advierte a su hijo que no toque el fuego. No es por limitarlo, sino por amor y protección. Ignorar esas advertencias puede llevarnos a heridas profundas.
 
-Pablo continúa diciendo: "porque por estas cosas viene la ira de Dios sobre los hijos de desobediencia". Aquí, el apóstol nos recuerda que el pecado no es un asunto trivial. Las "cosas" a las que se refiere son las prácticas pecaminosas mencionadas anteriormente en el capítulo: inmoralidad, impureza, avaricia, palabras deshonestas, entre otras.
+**C. Un Llamado a Alejarnos del Pecado (v.7)**
 
-La ira de Dios es una realidad que a veces evitamos mencionar, pero es esencial para comprender Su carácter santo y justo. No se trata de una ira impulsiva o caprichosa como la humana, sino de una indignación justa y santa contra el pecado. Dios es amor, sí, pero también es justo, y Su naturaleza perfecta no puede tolerar el mal.
+Finalmente, Pablo nos dice: "No se hagan cómplices de ellos". Esto me hace pensar en las influencias que permitimos en nuestra vida. No significa que debamos aislarnos del mundo, pero sí que tengamos cuidado con lo que aceptamos y a quién seguimos.
 
-Los "hijos de desobediencia" son aquellos que viven en rebeldía continua contra Dios, que rechazan Su gracia y persisten en sus pecados. Este término contrasta con "hijos de luz", que somos nosotros, los creyentes que hemos sido redimidos por Cristo y llamados a vivir en santidad.
+Quizás sea momento de reflexionar sobre nuestras amistades, los lugares que frecuentamos o los hábitos que hemos adoptado. ¿Nos acercan a Dios o nos alejan de Él? Recordemos que hemos sido llamados a ser diferentes, a marcar la diferencia en medio de un mundo que necesita luz. Personalmente, he tenido que tomar decisiones difíciles en cuanto a relaciones o actividades que no me edificaban espiritualmente.
 
-Las implicaciones teológicas aquí son profundas. El pecado tiene consecuencias reales y eternas. No podemos trivializarlo ni pensar que nuestras acciones carecen de peso. La justicia de Dios demanda una respuesta al pecado, y sin la intervención de Cristo, todos estaríamos bajo esa ira divina.
+No es fácil, lo sé. Pero no estamos solos en este camino. Dios nos da la fuerza y la sabiduría para vivir de manera que le honremos. Y cuando fallamos, Su gracia está ahí para levantarnos y seguir adelante.
 
-Pero gracias a Dios por Jesucristo, quien nos libró de la ira venidera al cargar con nuestros pecados en la cruz. Esta verdad debe motivarnos a alejarnos del pecado y a vivir en gratitud y obediencia a Él.
+---
 
-**C. Llamado a la Separación del Pecado (v.7)**
-
-Finalmente, en esta sección, Pablo nos exhorta: "No seáis, pues, partícipes con ellos". La palabra "partícipes" implica tener comunión, asociarse o compartir en algo. Pablo nos llama a no asociarnos con las obras y prácticas de los hijos de desobediencia.
-
-Esta separación no significa aislarnos completamente del mundo o vivir en una burbuja, sino evitar involucrarnos en actividades que deshonran a Dios y contaminan nuestra vida espiritual. Nuestra nueva identidad en Cristo nos llama a vivir de manera distinta. Como dice 2 Corintios 5:17: "De modo que si alguno está en Cristo, nueva criatura es; las cosas viejas pasaron; he aquí, todas son hechas nuevas".
-
-Debemos evaluar nuestras relaciones y asociaciones. ¿Estamos siendo influenciados por amistades, entretenimientos o prácticas que nos alejan de Dios? ¿Hay hábitos en nuestra vida que necesitamos dejar? La separación del pecado es esencial para mantener una relación íntima con el Señor.
-
-La aplicación práctica es evidente. Necesitamos ser intencionales en rodearnos de influencias que edifiquen nuestra fe. Esto no significa que no podamos relacionarnos con personas que no conocen a Cristo; de hecho, estamos llamados a ser luz en medio de las tinieblas. Pero debemos cuidar que esas relaciones no nos arrastren al pecado.
-
-En lugar de participar en las obras de las tinieblas, estamos llamados a reflejar la luz de Cristo. Como Jesús dijo en Mateo 5:16: "Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras y glorifiquen a vuestro Padre que está en los cielos".
 **II. Identidad Transformada: De Tinieblas a Luz (Efesios 5:8)**
 
 Queridos hermanos y hermanas, continuando con nuestro estudio de Efesios 5, llegamos a un versículo que es central en nuestra comprensión de lo que significa ser cristiano: Efesios 5:8. Aquí, el apóstol Pablo nos recuerda la transformación radical que hemos experimentado en Cristo. Este versículo nos lleva a reflexionar sobre nuestro pasado, reconocer nuestra nueva identidad y responder al llamado a vivir de acuerdo con esa realidad.
@@ -140,7 +149,7 @@ Pablo concluye el versículo con una exhortación práctica: "Andad como hijos d
    - ¿Hay áreas en mi vida donde aún permito que las tinieblas tengan lugar?
 
    Si identificamos áreas que necesitan cambio, debemos acudir al Señor en arrepentimiento y permitir que Su luz ilumine y transforme esos aspectos de nuestra vida.
-**III. Evidencias del Andar en la Luz (Efesios 5:9-10)**
+   **III. Evidencias del Andar en la Luz (Efesios 5:9-10)**
 
 Amados hermanos y hermanas, habiendo reconocido nuestra nueva identidad como hijos de luz, el apóstol Pablo nos guía ahora a considerar las evidencias prácticas de lo que significa andar en la luz. En Efesios 5:9-10, nos presenta características concretas que deben manifestarse en nuestra vida diaria como resultado de esa transformación interna que Dios ha operado en nosotros.
 
@@ -221,7 +230,7 @@ Pablo continúa en el versículo 10 diciendo: "comprobando lo que es agradable a
    - ¿Estoy dedicando tiempo a estudiar y meditar en la Palabra de Dios?
    - ¿Busco Su dirección en oración antes de tomar decisiones?
    - ¿Estoy más preocupado por agradar a Dios que a las personas o a mí mismo?
-**IV. Rechazo Activo de las Obras de las Tinieblas (Efesios 5:11-12)**
+     **IV. Rechazo Activo de las Obras de las Tinieblas (Efesios 5:11-12)**
 
 Hermanos y hermanas, al avanzar en nuestro estudio de Efesios 5, llegamos a una sección que nos desafía a tomar una postura firme y activa contra el pecado y las obras de las tinieblas. En los versículos 11 y 12, el apóstol Pablo no solo nos llama a evitar participar en acciones pecaminosas, sino que también nos exhorta a reprenderlas. Este es un llamado a la santidad y a ser agentes de luz en medio de un mundo oscuro.
 
@@ -313,7 +322,7 @@ Pablo concluye esta sección diciendo: "Porque vergonzoso es aun hablar de lo qu
    - **Cultivar pensamientos y conversaciones edificantes**: Buscar temas que edifiquen y glorifiquen a Dios, evitando el sensacionalismo o el morbo.
    - **Ser discretos al abordar el pecado**: Cuando sea necesario hablar del pecado, hacerlo con sensibilidad y respeto, evitando detalles innecesarios que puedan ser perjudiciales.
    - **Fomentar un ambiente de santidad**: En nuestros hogares, iglesias y lugares de trabajo, promover valores y prácticas que reflejen la pureza y santidad de Dios.
-**V. Aplicaciones Prácticas y Conclusión**
+     **V. Aplicaciones Prácticas y Conclusión**
 
 Amados hermanos y hermanas, al llegar al final de nuestro estudio de Efesios 5:6-12, es esencial que consideremos cómo aplicar estas verdades a nuestra vida diaria. La Palabra de Dios no es solo para ser escuchada, sino para ser vivida. Santiago 1:22 nos exhorta: "Pero sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos". Por lo tanto, veamos cómo podemos poner en práctica lo que hemos aprendido.
 
