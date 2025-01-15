@@ -1,6 +1,6 @@
 # Bosquejos
 
-Tenemos muchos tipos de bosquejos (de un pasaje, no de predica):
+Tenemos muchos tipos de bosquejos (de un pasaje, no de predica, una predica puede ser hecha en base a muchos analisis de pasajes):
 
 1. Cronologico
 2. Logico

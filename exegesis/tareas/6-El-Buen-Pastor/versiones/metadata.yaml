@@ -1,0 +1,7 @@
+fontsize: 10pt # Tamaño de fuente más pequeño
+linestretch: 1.2 # Espaciado entre líneas más compacto
+geometry: top=1.5cm, bottom=1.5cm, left=1.5cm, right=1.5cm # Márgenes reducidos
+header-includes:
+  - \setlength{\headheight}{12pt} # Altura del encabezado
+  - \setlength{\headsep}{10pt} # Espaciado desde el encabezado al contenido
+  - \setlength{\footskip}{12pt} # Espaciado desde el contenido al pie de página
