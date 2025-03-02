@@ -66,7 +66,9 @@
   - (Ilustracion de acciones buenas impulsadas x la vanidad VS x el Espiritu)
     - Diferencia?
 
-#### Sabiduria -> Voluntad de Dios
+## Cierre
+
+### Sabiduria -> Voluntad de Dios
 
 - Himnos, Salmos, Canticos espirituales
 - **APROVECHANDO BIEN EL TIEMPO**
@@ -75,7 +77,7 @@
     - Historias simplificadas que duran por vida
     - La biblia es palabra **VIVA**
     - Estudiar con diligencia, no es algo nimio
-  - Ilustracion bomba del tiempo
+  - **Ilustracion bomba del tiempo** (`CIERRE`)
   - Olvidamos el foco verdadero
   - La vida es Hegel by Salomon
   - Ilustracion ocupaciones/profesiones
